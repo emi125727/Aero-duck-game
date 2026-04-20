@@ -1,4 +1,4 @@
-# Aero-duck-game
+# 🦆 Aero-duck-game
 ## Жанр
 2D пиксельная аркада на уклонение (vertical dodge arcade)
 
