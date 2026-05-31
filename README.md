@@ -1,4 +1,4 @@
-# 🦆 Aero-duck-game
+# 🦆 Utya-duck-game
 ## Жанр
 2D пиксельная аркада на уклонение (vertical dodge arcade)
 
