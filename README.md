@@ -1,4 +1,4 @@
-# 🦆 Utya: Winter is Coming Arcade Game
+# 🦆 Utya: Winter is Coming / Arcade Game
 ## Жанр
 2D пиксельная аркада на уклонение (vertical dodge arcade)
 
